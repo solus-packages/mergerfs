@@ -1,8 +1,8 @@
 name       : mergerfs
-version    : 2.24.2
-release    : 1
+version    : 2.25.1
+release    : 2
 source     :
-    - https://github.com/trapexit/mergerfs/releases/download/2.24.2/mergerfs-2.24.2.tar.gz : 91401b54e04ae240d5f8d3ae74946a88afd9ddb7056e212a0e25eac5682fa9ea
+    - https://github.com/trapexit/mergerfs/releases/download/2.25.1/mergerfs-2.25.1.tar.gz : f604ad04aad99983c5f91e50e27275deefab4797c1343d8e0cf3664d1ca53fc5
 license    : ISC
 component  : system.utils
 summary    : A featureful union filesystem
